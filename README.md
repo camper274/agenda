@@ -17,7 +17,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 1. **Depoyu Klonlayın:**
 
     ```bash
-    git clone https://github.com/kullanici-adi/react-takvim-uygulamasi.git
+    git clone https://github.com/camper274/agenda.git
     cd agenda
     ```
 
